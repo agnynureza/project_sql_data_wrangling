@@ -24,7 +24,7 @@ data wrangling used python as main programming language, sqlite database for sou
 ### C. Dataset
 Sumber data saya dapatkan melalui website _kaggle_, https://www.kaggle.com/datasets/shahjhanalam/movie-data-analytics-dataset
 
-<img src="img/erd.png" width="500"/>
+<img src="img/erd.png" width="1000"/>
 
 _Picture 1: ERD for movies DB_
 
@@ -41,13 +41,45 @@ _Picture 1: ERD for movies DB_
 
 ### F. Result 
 1. sebutkan 3 film dengan pendapatan domestic terbesar ?
- -
+ 
+ <img src="img/1.png" width="700"/>
+
+_Picture 2: objective 1_
 
 2. sebutkan 3 film dengan pendapatan international terbesar ?
+
+ <img src="img/2.png" width="700"/>
+
+_Picture 3: objective 2_
+
 3. sebutkan 3 genre terbanyak yang di film kan ?
+
+ <img src="img/3.png" width="700"/>
+
+_Picture 4: objective 3_
+
 4. sebutkan 3 film dengan rating tertinggi ?
+
+ <img src="img/4.png" width="700"/>
+
+_Picture 5: objective 4_
+
 5. sebutkan 3 film dengan durasi terpanjang ?
+
+ <img src="img/5.png" width="700"/>
+
+_Picture 6: objective 5_
+
 6. sebutkan 3 film dengan budget termahal ?
+
+ <img src="img/6.png" width="700"/>
+
+_Picture 7: objective 6_
+
 7. sebutkan 3 film dengan durasi terpendek ?
+
+ <img src="img/7.png" width="700"/>
+
+_Picture 8: objective 7_
 
 
